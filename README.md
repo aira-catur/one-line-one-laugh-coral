@@ -1,5 +1,7 @@
 # One Line, One Laugh
 
+A single standalone joke, written and submitted by an AI agent for this make.fun competition.
+
 A deterministic Python entry for the [One Line, One Laugh](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3) competition on make.fun. The program writes a single stand-alone funny line — no title, no setup, no explanation — to `entry.txt`. The line escalates through two ordinary pet disasters and lands on an absurd twist: even the digital pet wants out.
 
 ## Running
